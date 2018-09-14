@@ -3,7 +3,7 @@ html{
 	
 	margin-left:20%;
 	font-family: "Arial";
-	width: 60%;
+	width: 50%;
 	
 	
 }
@@ -12,17 +12,18 @@ html{
 .x{
 	border: 2px solid #000000;
 	position: relative;
-	top: 30px;
+	top: 10px;
 	left: 30px;
+	
 }
 
 /*Vai editar as div de texto avulso do formulario*/
 .y{
 	text-align: relative;
 	position: relative;
-	top: 30px;
+	top: 31px;
 	left: 30px;
-	font-size: 17px;
+	font-size: 16px;
 }
 
 /*Vai criar uma margem dentro do formulario*/
@@ -53,24 +54,26 @@ input, select, textarea{
 	position: relative;
 	text-align: left;
 	margin-left:80%;
-	top: 39px;
+	top: 45px;
     font-weight: bold
 }
 
+/* Para mecher no titulo do formulario! */
 .title {
 	position: relative;
 	text-align: center;
-	top: 125px;
+	top: 132px;
 	right: 24%;
 	
 	
 }
 
+/*borda de todos os topicos do formulario*/
 h4 {
 	background-color: #C0C0C0;
 	
 }
-
+/*cor e tamanho da borda abaixo do titulo*/
 .border {
 	background-color: #C0C0C0;
 	background-size: 20px;
