@@ -1,0 +1,81 @@
+/*Vai centralizar o html, editar a fonte e a largura*/
+html{
+	
+	margin-left:20%;
+	font-family: "Arial";
+	width: 60%;
+	
+	
+}
+
+/*Vai editar as div com informações do formulario*/
+.x{
+	border: 2px solid #000000;
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
+
+/*Vai editar as div de texto avulso do formulario*/
+.y{
+	text-align: relative;
+	position: relative;
+	top: 30px;
+	left: 30px;
+	font-size: 17px;
+}
+
+/*Vai criar uma margem dentro do formulario*/
+.margin{
+	margin: 20px;
+
+	}
+
+/*Vai arrumar o espaçamento tags mencionadas*/
+input, select, textarea{
+	margin-bottom: 5px;
+	margin-top: 5px;
+	background-color: #c5d7fe;
+}
+ 
+/*Imagem SiC */
+ #myImage {
+	position: relative;
+	top: 75px;
+	right: 20%;
+
+	
+
+	}
+
+/*para editar o texto ao lado da foto*/	
+.m {
+	position: relative;
+	text-align: left;
+	margin-left:80%;
+	top: 39px;
+    font-weight: bold
+}
+
+.title {
+	position: relative;
+	text-align: center;
+	top: 125px;
+	right: 24%;
+	
+	
+}
+
+h4 {
+	background-color: #C0C0C0;
+	
+}
+
+.border {
+	background-color: #C0C0C0;
+	background-size: 20px;
+	position: relative;
+	top: 30px;
+	size: 10px;
+	left: 3%;
+}
